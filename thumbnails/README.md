@@ -1,0 +1,1 @@
+The images inside this folder are only used for the overview in the top level README. They are severely downscaled and should not be used for anything else. Please use the images from the [`images`](../images) and [`segmentations`](../segmentations) folders respectively.

@@ -1,5 +1,7 @@
 # NPRportrait segmentation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7852139.svg)](https://doi.org/10.5281/zenodo.7852139)
+
 - [Introduction](#introduction)
 - [Methodology](#methodology)
 - [Usage](#usage)
@@ -160,6 +162,7 @@ If you use the _NPRportrait-segmentation_ dataset provided in this repository, p
 ```bibtex
 @misc{Bultemeier_NPRportrait-segmentation,
   author = {Bültemeier, Julian and Meier, Philip and Lohweg, Volker},
+  doi    = {10.5281/zenodo.7852139},
   title  = {{NPRportrait-segmentation}},
   url    = {https://github.com/pystiche/NPRportrait-segmentation}
 }
